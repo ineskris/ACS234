@@ -2,9 +2,8 @@
 
 
 
-
-
-
+Inversion of a matrix 3x3 formula :
+https://fr.wikipedia.org/wiki/Matrice_inversible#Inversion_des_matrices_3%C3%973
  
  
  ------------------------------------------------------------------------------------------------------------------------------------------
