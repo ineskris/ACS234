@@ -1,7 +1,5 @@
 # ACS234 - Mathematics and Data Modelling 
 
-Try to do the exercice 1/1bis and 2 before next Wednesday.
-
 
 
 Inversion of a matrix 3x3 formula :
