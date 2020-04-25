@@ -7,10 +7,7 @@ This will be the repository with all the code used during tutorials this semeste
 
 ## Work from home 
 
-You can find an extra sheet *holiday-work.pdf* that replaces the one we missed this week. You can work on any exercices you want and email us if you have questions.
-We hope you are all fine and Happy Holidays !
-
-
+Tutorial 5 - Ex 1/1bis/2
 
  
  
