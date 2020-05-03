@@ -5,11 +5,10 @@ This will be the repository with all the code used during tutorials this semeste
 
 
 
-## Work from home 
 
-Tutorial 5 - Ex 1/1bis/2
 
- 
+ ML  books for free : 
+ https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
  
  ------------------------------------------------------------------------------------------------------------------------------------------
 If you have any questions, please email **both**:
