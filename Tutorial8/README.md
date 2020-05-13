@@ -8,7 +8,7 @@ If you need to solve a linear first order differential equation, you can use the
 
 ![Test Image 1](Linear-First-Order.png)
 
-See *1st_order.pdf* for examples.
+See **1st_order.pdf** for examples.
  
  
  
@@ -16,7 +16,8 @@ See *1st_order.pdf* for examples.
 
 For homogeneous second order differential equation, please see the method below : 
 
+
 ![Test Image 2](Homogeneous-second-order-linear equations.png)
 
 
- See *2nd_order.pdf* for examples.
+ See **2nd_order.pdf** for examples.
