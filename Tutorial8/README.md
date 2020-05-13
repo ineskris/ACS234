@@ -17,7 +17,7 @@ See **1st_order.pdf** for examples.
 For homogeneous second order differential equation, please see the method below : 
 
 
-![Test Image 2](Homogeneous-second-order-linear equations.png)
+![Test Image 2](2ndorder.png)
 
 
  See **2nd_order.pdf** for examples.
